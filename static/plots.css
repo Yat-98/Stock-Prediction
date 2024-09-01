@@ -1,0 +1,48 @@
+body {
+    background-color: #f8f8e6; /* Matching home page background */
+    font-family: Arial, sans-serif;
+    color: #3c2f2f;
+    margin: 0;
+    padding: 20px;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h1 {
+    color: #e67e22; /* Matching the orange from the home page */
+    text-align: center;
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+}
+
+.plot-title {
+    color: #3c2f2f;
+    text-align: center;
+    margin-top: 40px;
+    font-size: 1.5rem;
+}
+
+.plot-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom: 50px;
+}
+
+.plotly-graph-div {
+    max-width: 100%; /* Ensure plots are responsive */
+    margin: 0 auto;
+}
+
+footer {
+    text-align: center;
+    margin-top: 50px;
+    font-size: 0.9rem;
+    color: #95a5a6;
+}
+
