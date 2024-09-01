@@ -22,4 +22,4 @@ This project is a comprehensive guide to building a machine learning model using
 
 ## Home Page Preview
 
-![Home Page](images/Screenshot from 2024-09-01 18-34-16.png)
+![Home Page](images/home_screenshot.png)
