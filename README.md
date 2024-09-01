@@ -19,3 +19,7 @@ This project is a comprehensive guide to building a machine learning model using
 - **Plotly Express**: A visualization library used to create interactive plots and graphs.
 - **Pandas**: For data manipulation and analysis.
 - **Jupyter Notebook**: The development environment used to write and run the code.
+
+## Home Page Preview
+
+![Home Page](images/Screenshot from 2024-09-01 18-34-16.png)
